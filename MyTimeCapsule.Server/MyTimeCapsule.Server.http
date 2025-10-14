@@ -1,0 +1,6 @@
+@MyTimeCapsule.Server_HostAddress = http://localhost:5022
+
+GET {{MyTimeCapsule.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
