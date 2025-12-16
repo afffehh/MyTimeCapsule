@@ -27,3 +27,63 @@ dist-ssr
 bin/
 obj/
 
+#############################
+# Node / React (frontend)
+#############################
+mytimecapsule.client/node_modules/
+mytimecapsule.client/build/
+mytimecapsule.client/coverage/
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/.env
+**/.env.local
+**/.env.*.local
+
+#############################
+# ASP.NET Core (backend)
+#############################
+MyTimeCapsule.server/bin/
+MyTimeCapsule.server/obj/
+*.user
+*.suo
+
+#############################
+# Visual Studio
+#############################
+.vs/
+.vscode/
+*.sln.docstates
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+#############################
+# Packages / dependencies
+#############################
+**/packages/*
+!**/packages/build/
+bower_components/
+
+# Entity Framework / Databases
+*.db
+*.mdf
+*.ldf
