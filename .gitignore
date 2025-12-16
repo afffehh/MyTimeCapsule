@@ -26,6 +26,11 @@ dist-ssr
 # Build output
 bin/
 obj/
+*.AssemblyInfo.cs
+*.dswa.cache.json
+staticwebassets/
+*.cache
+*.Up2Date
 
 #############################
 # Node / React (frontend)
