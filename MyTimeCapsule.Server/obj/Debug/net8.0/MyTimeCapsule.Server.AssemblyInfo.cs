@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyTimeCapsule.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a5570b408e13a9cd950dc165d04b5861bb5855")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3276f3c9382f225cb88dbeae9adc1d632db1426d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyTimeCapsule.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyTimeCapsule.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
